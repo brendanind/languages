@@ -1,12 +1,12 @@
 # languages
 
 Brendan Ind 2023
-
+<br>
 [] BASIC
 [] Fortran
 [] Javascript
 [x] Python
-
+<br>
 [] BASH/PS - Scripting
 [] HTML + CSS
 [] SQL - DB management
@@ -15,7 +15,7 @@ Brendan Ind 2023
 [] Ruby: OO Language
 [] R: Data science
 [] Julia: Scientific computing
-
+<br>
 Static:
 [] Java
 [] C# : Similar to java, Unity games, .net framework
@@ -24,7 +24,7 @@ Static:
 [] Swift (iOS)
 [] DART + Flutter
 [] GO: High performance low level langage built to replace C (Made by Google) + Garbage Collector
-
+<br>
 Functional Languages:
 [] Haskell. Immutable datatypes and functions have no side effects
 [] Miranda Language
@@ -34,18 +34,18 @@ Functional Languages:
 [] OCamel (FB)
 [] Elixir (High performance)
 [] ELM (Functional) compiles to JS for front end UI's
-
+<br>
 System Languages:
 [] C (Procedural only)
 [] C++ (OOP) - Manual memory management. Game engines, compilers, etc..
 [] Rust (No GC). Borrow checking
-
+<br>
 [] V (like Go but no GC). Autofree innovation
 [] ZIG. Explicit mem management
 [] nim (Like python but statically typed). Tunable Garbage
 [] Carbon (C++ Replacement, google)
 [] Hack: (FB) desinged to interop with PHP
-
+<br>
 [] Fortran
 [] LISP (Dynamic typing)
 [] COBOL: Banks use this still!
